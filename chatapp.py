@@ -86,8 +86,8 @@ def main():
 
     with st.sidebar:
 
-        st.image("img/Robot.jpg")
-        st.write("---")
+        #st.image("img/Robot.jpg")
+        #st.write("---")
         
         st.title("📁 PDF File's Section")
         pdf_docs = st.file_uploader("Upload your PDF Files & \n Click on the Submit & Process Button ", accept_multiple_files=True)
@@ -98,8 +98,8 @@ def main():
                 get_vector_store(text_chunks) # create vector store
                 st.success("Done")
         
-        st.write("---")
-        st.image("img/gkj.jpg")
+        #st.write("---")
+        #st.image("img/gkj.jpg")
         st.write("AI App created by @ Gurpreet Kaur")  # add this line to display the image
 
 
