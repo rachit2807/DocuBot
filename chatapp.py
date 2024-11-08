@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 
-google_api_key = AIzaSyA-LVGYTO-tHAx2wsUOolsQhNcSSmWyNfo
+google_api_key = "AIzaSyA-LVGYTO-tHAx2wsUOolsQhNcSSmWyNfo"
 genai.configure(api_key=google_api_key)
 
 def get_pdf_text(pdf_docs):
