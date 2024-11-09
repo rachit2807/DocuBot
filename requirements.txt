@@ -1,8 +1,41 @@
-streamlit
-google-generativeai
-python-dotenv
 langchain
+ipykernel
+python-dotenv
+langchain_huggingface
+langchain_community
+streamlit
+validators
+langchain_groq
+youtube_dl
+moviepy
+pytube
+pyzbar
+youtube-transcript-api
+unstructured
+comtypes
+pycaw
+opencv-python
+tensorflow
+keras
+mediapipe
+sounddevice
+streamlit-webrtc
+watchdog
+torch
+torchvision
+torchaudio
+nightly
+requests
+transformers
+mysql-connector-python
+SQLAlchemy
+google.generativeai
 PyPDF2
-faiss-cpu
+openpyxl
+chromadb
 langchain_google_genai
-langchain-community
+faiss-cpu
+googletrans==4.0.0-rc1
+pymupdf  # PyMuPDF for extracting visuals
+SpeechRecognition  # For voice input
+pyttsx3  # For text-to-speech
