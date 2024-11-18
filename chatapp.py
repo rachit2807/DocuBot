@@ -16,7 +16,7 @@ import threading
 import tempfile
 
 # Set default API key
-google_api_key = "AIzaSyDQ24jcEZaAOEnaIAxYxA2w4rU6vPwpE1s"
+google_api_key = "YOUR API KEY HERE"
 genai.configure(api_key=google_api_key)
 
 # Initialize text-to-speech engine
