@@ -56,7 +56,7 @@ Run the Streamlit app:
 
 streamlit run app.py
 
-In case You want to run & implement project on your system then follow these steps:
+### In case You want to run & implement project on your system then follow these steps:
 
 1. Ensure that you have installed the required dependencies and added the Google API key to the .env file (MUST).
 2. Run the app.py file using the Streamlit CLI. Execute the following command:
@@ -67,6 +67,10 @@ streamlit run app.py
 6. Ask questions in natural language about the loaded PDFs using the chat interface.
 7. Chatting with the Documents: After uploading and processing the PDF documents, you can ask questions by typing them in the text input field. Press Enter or click the "Ask" button to submit your question.
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
+
+## Live Demo
+- [DocuBot Live App](https://docubotpdf.streamlit.app/)
+
 
 If you like this LLM Project do drop ⭐ to this repo
 
