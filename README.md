@@ -69,7 +69,7 @@ streamlit run app.py
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
 
 ## Live Demo
-- [DocuBot Live App](https://docubotpdf.streamlit.app/)
+- [DocuBot Live App](https://docubotchat.streamlit.app/)
 
 
 If you like this LLM Project do drop ⭐ to this repo
