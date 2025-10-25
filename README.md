@@ -32,7 +32,9 @@ It combines **Google Generative AI**, **LangChain**, **FAISS**, and **Streamlit*
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/rachit2807/DocuBot/blob/main/assests/docubot_working.mp4"></video>
+## Demo Video
+[Watch Demo Video](https://github.com/rachit2807/DocuBot/blob/main/assests/docubot_working.mp4)
+
 
 ---
 
@@ -52,6 +54,7 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 streamlit run chatbot.py
+```
 
 ## Connect with Me
 
