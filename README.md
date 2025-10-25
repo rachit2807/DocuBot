@@ -22,6 +22,7 @@ It combines **Google Generative AI**, **LangChain**, **FAISS**, and **Streamlit*
 ![Home Page](https://github.com/rachit2807/DocuBot/blob/main/assests/home.png)
 
 📄 **PDF Upload & Processing Section** 
+<br>
 ![PDF Section](https://github.com/rachit2807/DocuBot/blob/main/assests/pdf_section.png)
 
 💬 **Chat Interface** 
