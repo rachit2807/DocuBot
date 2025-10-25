@@ -32,7 +32,7 @@ It combines **Google Generative AI**, **LangChain**, **FAISS**, and **Streamlit*
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/rachit2807/DocuBot/blob/main/assests/docubot_working.mp4" controls width="700"></video>
+<video src="https://github.com/rachit2807/DocuBot/blob/main/assests/docubot_working.mp4"></video>
 
 ---
 
